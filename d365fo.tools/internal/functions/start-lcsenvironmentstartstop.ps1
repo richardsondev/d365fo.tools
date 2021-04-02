@@ -1,7 +1,7 @@
 ﻿
 <#
     .SYNOPSIS
-        Start or stop a given environment using LCS
+    Start or stop a given environment using LCS
         
     .DESCRIPTION
         Start or stop a specified IAAS environment that is Customer Managed through the LCS API.
@@ -31,7 +31,9 @@
         "https://lcsapi.fr.lcs.dynamics.com"
         "https://lcsapi.sa.lcs.dynamics.com"
         "https://lcsapi.uae.lcs.dynamics.com"
+        "https://lcsapi.ch.lcs.dynamics.com"
         "https://lcsapi.lcs.dynamics.cn"
+        "https://lcsapi.gov.lcs.microsoftdynamics.us"
         
     .PARAMETER EnableException
         This parameters disables user-friendly warnings and enables the throwing of exceptions
